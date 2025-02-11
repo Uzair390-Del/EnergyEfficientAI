@@ -1,0 +1,21 @@
+--- Training Report ---
+Training Time: 0.33 seconds
+Average CPU Utilization: 3.60%
+Average Memory Utilization: 20.80%
+Power Consumption: 73.60 W
+Energy Consumption: 24.06 J (Joules)
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94        43
+           1       0.96      0.97      0.97        71
+
+    accuracy                           0.96       114
+   macro avg       0.96      0.95      0.95       114
+weighted avg       0.96      0.96      0.96       114
+
+
+Confusion Matrix:
+[[40  3]
+ [ 2 69]]
